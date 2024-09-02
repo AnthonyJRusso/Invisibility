@@ -4,15 +4,5 @@ using UnityEngine;
 
 public class Sidescript : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    //Script is left empty, just used as a marker for objects you do not want the player to be able to pass through, even when invisible
 }
