@@ -1781,8 +1781,8 @@ GameObject:
   - component: {fileID: 2125679653}
   - component: {fileID: 2125679655}
   - component: {fileID: 2125679656}
-  - component: {fileID: 2125679657}
   - component: {fileID: 2125679658}
+  - component: {fileID: 2125679657}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -1956,6 +1956,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spr: {fileID: 2125679653}
   invisTime: 2
+  invisWalls:
+  - {fileID: 1626427120}
+  - {fileID: 42217221}
+  - {fileID: 956946626}
+  - {fileID: 1322842674}
+  - {fileID: 992835662}
+  - {fileID: 1197451299}
+  - {fileID: 2041306984}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
